@@ -8,6 +8,7 @@
     "security-check": "nsp check"
   },
   "dependencies": {
+    "babel": "^6.5.2",
     "body-parser": "~1.15.2",
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
